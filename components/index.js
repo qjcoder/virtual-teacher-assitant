@@ -1,5 +1,6 @@
 import Footer from "./footer";
 import Navbar from "./navbar";
-import Button from "./button";
+import ButtonBlue from "./button-blue";
+import ButtonWhite from "./button-white";
 
-export { Navbar, Footer, Button };
+export { Navbar, Footer, ButtonWhite, ButtonBlue };
